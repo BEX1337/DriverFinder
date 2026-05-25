@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DriverFinder.Benchmarks/DriverFinder.Benchmarks.csproj" />
+  <Project Path="DriverFinder.Core/DriverFinder.Core.csproj" />
+  <Project Path="DriverFinder.Tests/DriverFinder.Tests.csproj" />
+</Solution>
